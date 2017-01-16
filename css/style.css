@@ -2,7 +2,9 @@
 body {
   margin: 0;
   background-image: url("http://pureinfotech.com/wp-content/uploads/2015/03/twitch-purple_large.jpg");
-  background-size: cover;
+  background-size: 100% auto;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 
 .top {
